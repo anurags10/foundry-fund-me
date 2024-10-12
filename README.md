@@ -1,4 +1,4 @@
-#About
+# About
 
 This is a Crowd Sourcing contract repo build using **Foundry**
 
